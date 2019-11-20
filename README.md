@@ -1,5 +1,7 @@
 # Changing clothes
 
+[LINK](https://Sijey.github.io/js_changing-clothes/)
+
 Here are 8 items of clothing: 
 
 - Apron
